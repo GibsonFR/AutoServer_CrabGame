@@ -1,7 +1,5 @@
 # AutoServer
 
-Create a new lobby when the game start
-
 ## Features
 - Automatically creates a **Steam lobby** on game launch.
 
